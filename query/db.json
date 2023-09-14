@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Julia"
+    },
+    {
+      "id": 3,
+      "name": "Emre Yilmaz"
+    },
+    {
+      "name": "Emre",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId":3,
+      "title":"Canakkale",
+      "id":15 
+    }
+  ],
+  "photos":[
+    
+  ]
+}
